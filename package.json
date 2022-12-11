@@ -1,7 +1,7 @@
 {
-  "name": "Deploy",
+  "name": "ilovwatermelon",
   "version": "1.0.0",
-  "description": "A simple frontend design for Corrosion you can deploy",
+  "description": "Super Düper Proxy v502",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
